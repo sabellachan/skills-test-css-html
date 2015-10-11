@@ -1,0 +1,15 @@
+.app {
+    background-color: gray;
+}
+
+.button {
+    background-color: yellow;
+}
+
+#lastname {
+    font-weight: bold;
+}
+
+#instructions {
+    border: 5px solid black;
+}
